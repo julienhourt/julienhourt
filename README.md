@@ -4,7 +4,7 @@ My name is Julien, I'm deeply enthusiastic about startups and by the role data p
 
 - Find my portfolio <a href="https://github.com/julienhourt/My-Portfolio">here</a> 👨‍💻
 - Available from June for a data analyst internship 👨‍🎓
-- SQL, Python, R, Dataviz 💼
+- SQL, Python, R, Data visualisation 💼
 
 
 
