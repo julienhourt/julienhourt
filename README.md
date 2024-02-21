@@ -1,7 +1,14 @@
-<h1 align="left">Hi 👋, I'm Julien</h1>
-<h3 align="left">I am passionate about startups and the ability of data to solve problems and grow the business.</h3>
+### Hello there 👋
 
-My Portfolio ➡️ https://github.com/julienhourt/My-Portfolio <br>
+My name is Julien, I'm deeply enthusiastic about startups and by the role data plays in overcoming obstacles and driving business growth. 🌱
 
-<img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=790b761133nua4tydpvdubzl5jksxlunhv4ov1kl80wxiguq&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Your GIF" width="300">
+- Find my portfolio <a href="https://github.com/julienhourt/My-Portfolio">here</a> 👨‍💻
+- Available from June for a data analyst internship 👨‍🎓
+- SQL, Python, R, Dataviz 💼
+
+
+
+
+
+
 
